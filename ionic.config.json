@@ -1,5 +1,7 @@
 {
   "name": "conversandoEnELAula",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

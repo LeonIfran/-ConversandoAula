@@ -1,0 +1,38 @@
+/* ion-card,
+ion-item {
+    --background: var(--ion-color-secondary);
+    --color: var(--ion-color-primary-contrast);
+} */
+/* #header {
+    background-image: url('../assets/images/anonymous.jpg')!important;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 25vh;
+  } */
+  
+/*   ion-fab {
+    position: relative;
+  } */
+  
+/*   ion-fab[bottom][edge] {
+    bottom: -21vh;
+  } */
+  
+/*   .fab {
+    margin-right: 3vw;
+  } */
+ion-button{
+    --border-radius:50%
+}
+
+.ion-text-center	{
+  text-align: center	
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
